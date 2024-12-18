@@ -5,7 +5,7 @@ This project demonstrates the processing of EMG (Electromyography) signals using
 
 The project highlights essential signal processing techniques and tools within Simulink.
 
-<img src="bio_image/circuit 3.png" alt="Boh" width="300"/>
+<img src="bio_image/circuit 3.png" alt="Boh" width="800"/>
 
 ---
 
