@@ -56,9 +56,11 @@ The processed EMG signal will show:
 
 ---
 
-## Author  
-**Wadoud Guelmami**  
-
 ## Conclusion  
 This project showcases a robust EMG signal processing pipeline in Simulink, integrating filtering, rectification, thresholding, and visualization techniques. It demonstrates expertise in **Simulink modeling**, **signal processing**, and **MATLAB integration**.
+
+---
+
+## Author  
+**Wadoud Guelmami**  
 
